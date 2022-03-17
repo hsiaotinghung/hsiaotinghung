@@ -1,7 +1,6 @@
 - 👋  Hi, I’m @hsiaotinghung
 - ⌨️  I'm a software engineer
 - 👀  I’m interested in web development 
-- 🌱  I’m currently learning vue 3, D3, and Angular
 
 
 <!---
